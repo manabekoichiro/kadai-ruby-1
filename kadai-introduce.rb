@@ -2,10 +2,10 @@ myouzi = "眞邊"
 #puts myouzi
 namae  = "航一郎"
 #puts namae
-age ="23"
+age =23
 #puts age
-me =myouzi+namae+"です。"+age.to_s+"歳です。"
-puts me
+puts myouzi+namae+"です。"+age.to_s+"歳です。"
+
 
 
 
